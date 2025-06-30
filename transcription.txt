@@ -1,0 +1,7 @@
+--- Transcription ---
+ hallo hello the stream and
+
+--- Ollama Summary ---
+It looks like we have a short and sweet transcription here!
+
+The summary is: "Hello!"

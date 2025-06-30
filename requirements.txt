@@ -1,0 +1,7 @@
+soundcard
+scipy
+openai-whisper
+ollama
+numpy
+torch
+PyAudio
