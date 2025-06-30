@@ -68,7 +68,7 @@ def main():
     # --- Transcription ---
     print("Transcribing audio... (This may take a moment)")
     try:
-        model = whisper.load_model("base")
+        model = whisper.load_model("medium")
         result = model.transcribe(OUTPUT_FILENAME)
         transcription = result["text"]
         print("Transcription complete.")
